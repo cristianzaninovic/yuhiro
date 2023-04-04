@@ -1,0 +1,46 @@
+/* Estilos para el encabezado */
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 36px;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.centered-image {
+  display: block;
+  margin: 0 auto;
+  max-width: 10%;
+}
+
+/* Estilos para las secciones */
+section {
+  margin: 30px;
+  padding: 20px;
+  background-color: #f1f1f1;
+  font-family: 'Open Sans', sans-serif;
+}
+
+section h2 {
+  font-size: 24px;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+/* Estilos para el pie de página */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  font-size: 14px;
+}
+
+footer a {
+  color: #fff;
+}
